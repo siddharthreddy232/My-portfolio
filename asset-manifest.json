@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-portfolio/static/css/main.a9c60214.css",
-    "main.js": "/My-portfolio/static/js/main.281c56d3.js",
+    "main.js": "/My-portfolio/static/js/main.d053a22a.js",
     "static/js/453.612f53fa.chunk.js": "/My-portfolio/static/js/453.612f53fa.chunk.js",
     "static/media/logo.png": "/My-portfolio/static/media/logo.c2ff063e24871b478199.png",
     "static/media/healthcareDB.png": "/My-portfolio/static/media/healthcareDB.7ad54b446f9ea4b7a96a.png",
     "static/media/recoverEase.png": "/My-portfolio/static/media/recoverEase.42f5cabf7364b15ab056.png",
     "static/media/nursingHome.png": "/My-portfolio/static/media/nursingHome.b570f166799110589323.png",
-    "static/media/Sid resume.pdf": "/My-portfolio/static/media/Sid resume.b99cc4a67071a38a736c.pdf",
+    "static/media/Sid resume.pdf": "/My-portfolio/static/media/Sid resume.ce029f62cbc366bda478.pdf",
     "static/media/home-main.svg": "/My-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/My-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/avatar.svg": "/My-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
@@ -36,11 +36,11 @@
     "static/media/Haskell.svg": "/My-portfolio/static/media/Haskell.084122e02bec646ad186861642137932.svg",
     "static/media/Firebase.svg": "/My-portfolio/static/media/Firebase.de3da3a4068963dd30fc0f885f170428.svg",
     "main.a9c60214.css.map": "/My-portfolio/static/css/main.a9c60214.css.map",
-    "main.281c56d3.js.map": "/My-portfolio/static/js/main.281c56d3.js.map",
+    "main.d053a22a.js.map": "/My-portfolio/static/js/main.d053a22a.js.map",
     "453.612f53fa.chunk.js.map": "/My-portfolio/static/js/453.612f53fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9c60214.css",
-    "static/js/main.281c56d3.js"
+    "static/js/main.d053a22a.js"
   ]
 }
