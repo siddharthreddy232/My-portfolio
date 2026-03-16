@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
- <a href="https://siddharthreddy232.github.io/My-portfolio/" target="_blank">
+ <a hhref="https://siddharthreddy232.github.io/My-portfolio/" target="_blank">
   Siddharth Reddy Maddi
 </a>
 </h2>
